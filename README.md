@@ -19,7 +19,7 @@
 - [OpenXLab][ChatGLM + English(w/ key)](https://openxlab.org.cn/apps/detail/OpenDILab/LLMRiddlesChatGLMEN)
 - [Private Server][Mistral + English(w/ key)](https://d9b451a97791dd8ef3.gradio.live)
 - [Private Server][ChatGPT + Chinese(w/ key)](http://llmriddles.opendilab.net/)
-- [[智谱AI][ChatGLM + Chinese(w/ key)](http://www.lingziao.com:7860/)
+- [智谱AI][ChatGLM + Chinese(w/ key)](http://www.lingziao.com:7860/)
 
 本地部署可以通过以下方式：
 ### ChatGPT + 中文
